@@ -1,0 +1,50 @@
+name: Bug report
+description: Report a reproducible TradeForge problem without secrets or full logs
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Never post license keys, POESESSID, payment data, tokens or full logs.
+        Use the in-app support upload for private logs.
+  - type: input
+    id: version
+    attributes:
+      label: TradeForge version
+      placeholder: 0.1.39
+    validations:
+      required: true
+  - type: dropdown
+    id: language
+    attributes:
+      label: Game client language
+      options: [Russian, English]
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Reproduction steps
+      description: Safe steps only; redact account and item-owner data.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected result
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual result
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Secret-data confirmation
+      options:
+        - label: I removed license keys, tokens, cookies, payment data and full logs.
+          required: true

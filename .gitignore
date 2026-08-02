@@ -1,0 +1,17 @@
+# This public repository intentionally contains no runtime or secret data.
+*.exe
+*.msi
+*.zip
+*.7z
+*.db
+*.sqlite*
+*.log
+*.env
+*.key
+*.pem
+*.session*
+__pycache__/
+.venv/
+secrets/
+runtime/
+data/
