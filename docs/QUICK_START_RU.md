@@ -3,10 +3,10 @@
 ## 1. Скачивание и проверка
 
 1. Скачайте установщик из [GitHub Releases](https://github.com/Svetl286/TradeForge-PoE2/releases/latest)
-   или с [официального VPS](https://tradeforge.freelancepulse.work/api/v1/update/download?version=0.1.39).
+   или с [официального VPS](https://tradeforge.freelancepulse.work/api/v1/update/download?version=1.0.0).
 2. Проверьте SHA-256 по инструкции [VERIFY_DOWNLOAD.md](VERIFY_DOWNLOAD.md).
-3. Для версии `0.1.39` ожидаемый SHA-256:
-   `A734574E7797E554F65E686E39334A579D6BA163329C8940DA90FE22743DCB4D`.
+3. Для версии `1.0.0` ожидаемый SHA-256:
+   `5EA0FA9E1C15A87AF1BCB92E175189E118794B9A740F5BFD58774A42B374482B`.
 4. Установщик пока не подписан цифровой подписью, поэтому Windows SmartScreen
    может показать предупреждение. Не запускайте файл, если имя, размер или
    хеш не совпадают.

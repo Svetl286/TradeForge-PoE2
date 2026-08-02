@@ -3,10 +3,10 @@
 ## 1. Download and verify
 
 1. Download the installer from [GitHub Releases](https://github.com/Svetl286/TradeForge-PoE2/releases/latest)
-   or the [official VPS](https://tradeforge.freelancepulse.work/api/v1/update/download?version=0.1.39).
+   or the [official VPS](https://tradeforge.freelancepulse.work/api/v1/update/download?version=1.0.0).
 2. Follow [VERIFY_DOWNLOAD.md](VERIFY_DOWNLOAD.md) to verify SHA-256.
-3. Expected SHA-256 for `0.1.39`:
-   `A734574E7797E554F65E686E39334A579D6BA163329C8940DA90FE22743DCB4D`.
+3. Expected SHA-256 for `1.0.0`:
+   `5EA0FA9E1C15A87AF1BCB92E175189E118794B9A740F5BFD58774A42B374482B`.
 4. The installer is not digitally code-signed yet, so Windows SmartScreen may
    display a warning. Do not run a file whose name, size or hash differs.
 

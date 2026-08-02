@@ -1,6 +1,7 @@
 # TradeForge for Path of Exile 2
 
-[Русский](docs/QUICK_START_RU.md) · [English](docs/QUICK_START_EN.md) ·
+[English](README.md) · [Русский](README_RU.md) ·
+[Quick start](docs/QUICK_START_EN.md) ·
 [Telegram](https://t.me/TradeForgePoE2) ·
 [Discord](https://discord.gg/UtU9Ty2bBv) ·
 [Releases](https://github.com/Svetl286/TradeForge-PoE2/releases)
@@ -10,35 +11,32 @@
 TradeForge is a helper tool for Path of Exile 2: item preparation and crafting,
 market pricing, shop routing, listing and price updates.
 
-TradeForge — инструмент-помощник для Path of Exile 2: подготовки и крафта
-предметов, оценки рынка, распределения по лавкам, выставления и обновления цен.
-
 > This is a public showcase, documentation and binary release repository.
 > The application source code is not published here and this repository is
 > not an open-source distribution.
 
-## Current release / Текущая версия
+## Current release
 
-- Version: **0.1.39**
-- Published: **2026-08-01**
-- Installer: `TradeForge_Setup_0.1.39.exe`
-- Size: **70,518,181 bytes**
-- SHA-256: `A734574E7797E554F65E686E39334A579D6BA163329C8940DA90FE22743DCB4D`
-- [Official VPS download](https://tradeforge.freelancepulse.work/api/v1/update/download?version=0.1.39)
+- Version: **1.0.0**
+- Published: **2026-08-02**
+- Installer: `TradeForge_Setup_1.0.0.exe`
+- Size: **70,008,484 bytes**
+- SHA-256: `5EA0FA9E1C15A87AF1BCB92E175189E118794B9A740F5BFD58774A42B374482B`
+- [Official VPS download](https://tradeforge.freelancepulse.work/api/v1/update/download?version=1.0.0)
 - [GitHub Releases mirror](https://github.com/Svetl286/TradeForge-PoE2/releases/latest)
 
 The VPS download is the canonical source used by the built-in updater. GitHub
 Releases are a public mirror for release notes, hashes and manual downloads.
 
-## What it does / Возможности
+## What it does
 
 | Workflow | TradeForge capability |
 |---|---|
 | Crafting | Configurable stage constructor, currency and omen workflows |
 | Pricing | Market search, cascading queries, listing comparison and saved variants |
 | Selling | Pre-sale staging, shop routing, listing and low-value handling |
-| Repricing | Rule-based and smart price updates, shop relocation workflows |
-| Search / Поиск | Seller search by the required purchase quantity / Удобный поиск продавцов по нужному количеству закупаемого предмета |
+| Repricing | Rule-based and smart price updates and shop relocation workflows |
+| Seller search | Convenient seller search by the required purchase quantity |
 | Control | Start, pause, resume, stop, progress, logs and preflight dialogs |
 | Support | RU/EN interface, manuals, Telegram, Discord and explicit log submission |
 
@@ -46,15 +44,12 @@ Releases are a public mirror for release notes, hashes and manual downloads.
 
 ![Prices](assets/screenshots/en/tab_prices.annotated.png)
 
-### Seller search / Поиск предметов у продавцов
+### Seller search by item quantity
 
 Set the minimum available item count to find sellers suitable for the required
 purchase quantity.
 
-Укажите минимальное количество предметов и найдите продавцов, у которых есть
-нужный объём для закупки.
-
-![Seller search by item quantity](assets/screenshots/ru/tab_search.annotated.png)
+![Seller search by item quantity](assets/screenshots/en/tab_search.annotated.png)
 
 More screenshots: [feature gallery](docs/FEATURES.md).
 
@@ -71,15 +66,15 @@ More screenshots: [feature gallery](docs/FEATURES.md).
 
 - Every release publishes an exact version, file size and SHA-256 hash.
 - The public repository contains no account sessions, wallets, proxies,
-  private keys, operator databases or source tree.
-- The application installer is currently **not digitally code-signed**.
-  Windows SmartScreen may therefore show a warning. Verify the SHA-256 before
-  running it and download only from the official links above.
-- TradeForge controls mouse and keyboard input, reads item text from the
-  clipboard, captures configured screen regions and communicates with its
-  HTTPS licensing/pricing service as part of its advertised functions.
+  private keys, operator databases or private source tree.
+- The installer is currently **not digitally code-signed**. Windows
+  SmartScreen may therefore display a warning. Verify SHA-256 before running
+  it and download only from the official links above.
+- As part of its advertised functions, TradeForge can control mouse and
+  keyboard input, read item text from the clipboard, capture configured screen
+  regions and communicate with the official HTTPS licensing/pricing service.
 - Full support logs are submitted only through the explicit in-app support
-  action; never publish full logs, license keys or account cookies in Issues.
+  action. Never publish full logs, license keys or account cookies in Issues.
 
 Read [Security](SECURITY.md), [Privacy](PRIVACY.md) and
 [Verify a download](docs/VERIFY_DOWNLOAD.md) before installation.
@@ -102,7 +97,7 @@ accepting that account risk.
 - Bugs and feature requests: [GitHub Issues](https://github.com/Svetl286/TradeForge-PoE2/issues)
 
 Do not post license keys, payment data, tokens, POESESSID or full logs in a
-public issue. Use the in-app support upload for logs.
+public Issue. Use the in-app support upload for logs.
 
 ## Third-party acknowledgements
 
