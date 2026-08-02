@@ -1,12 +1,14 @@
-# Third-party notices
+# Third-party notices / Сторонние компоненты
 
 ## Exiled Exchange 2 data
 
 TradeForge uses language and stat data derived from the open-source
 [Exiled Exchange 2](https://github.com/Kvan7/Exiled-Exchange-2) project.
 
-Copyright (c) 2020 Alexander Drozdov, 2024-2026 Exiled-Exchange-2
-contributors.
+TradeForge использует языковые данные и данные характеристик, производные от
+проекта с открытым исходным кодом Exiled Exchange 2.
+
+Copyright (c) 2020 Alexander Drozdov
 
 MIT License:
 
@@ -30,3 +32,6 @@ SOFTWARE.
 
 Exiled Exchange 2 and its contributors do not endorse, sponsor or support
 TradeForge. The projects are not partners.
+
+Exiled Exchange 2 и его участники не одобряют, не спонсируют и не поддерживают
+TradeForge. Проекты не являются партнёрами.

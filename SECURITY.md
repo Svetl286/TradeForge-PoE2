@@ -1,4 +1,4 @@
-# Security policy
+# Security policy / Политика безопасности
 
 ## Authentic releases
 
@@ -30,3 +30,22 @@ This public repository intentionally contains documentation, screenshots,
 release metadata and binary release links only. It must never contain the
 private source tree, build environment, operator configuration, databases,
 account sessions, proxies, private keys, wallet data or service tokens.
+
+## Русский
+
+Скачивайте TradeForge только со страницы Releases этого репозитория или через
+официальный HTTPS-адрес TradeForge. Перед запуском сверяйте опубликованный
+SHA-256. Установщик пока не имеет цифровой подписи, поэтому предупреждение
+SmartScreen или антивируса возможно.
+
+Не публикуйте в Issue ключ лицензии, POESESSID, токены, платёжные данные,
+данные кошелька, доступы к прокси, полные приватные логи или персональную
+информацию. Для чувствительных обращений используйте встроенную отправку лога,
+https://t.me/TradeForgePoE2Support или инструкции поддержки в Discord:
+https://discord.gg/UtU9Ty2bBv.
+
+В публичном Issue допустимы только версия TradeForge и Windows, язык клиента,
+безопасные шаги воспроизведения и уже очищенный текст ошибки. Репозиторий
+намеренно ограничен документацией, безопасными скриншотами, метаданными и
+ссылками/файлами релизов; закрытый код, конфигурации, базы, сессии, прокси,
+ключи, кошельки и токены здесь запрещены.

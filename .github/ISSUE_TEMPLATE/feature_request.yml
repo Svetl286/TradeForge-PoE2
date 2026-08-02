@@ -1,25 +1,25 @@
-name: Feature request
-description: Suggest a TradeForge workflow or usability improvement
+name: Feature request / Предложить функцию
+description: Workflow or usability improvement / Улучшение сценария или удобства
 title: "[Feature]: "
 labels: ["enhancement"]
 body:
   - type: textarea
     id: problem
     attributes:
-      label: Problem or workflow
-      description: What user task should become easier or safer?
+      label: Problem or workflow / Проблема или сценарий
+      description: What should become easier or safer? / Что должно стать проще или безопаснее?
     validations:
       required: true
   - type: textarea
     id: proposal
     attributes:
-      label: Proposed behavior
+      label: Proposed behavior / Предлагаемое поведение
     validations:
       required: true
   - type: checkboxes
     id: confirmation
     attributes:
-      label: Confirmation
+      label: Confirmation / Подтверждение
       options:
-        - label: This request contains no license key, token, payment data or private log.
+        - label: No secrets or private logs / Нет секретов или приватных логов.
           required: true

@@ -1,5 +1,5 @@
-name: Bug report
-description: Report a reproducible TradeForge problem without secrets or full logs
+name: Bug report / Сообщить об ошибке
+description: Reproducible problem without secrets / Ошибка без секретов и полных логов
 title: "[Bug]: "
 labels: ["bug"]
 body:
@@ -8,43 +8,45 @@ body:
       value: |
         Never post license keys, POESESSID, payment data, tokens or full logs.
         Use the in-app support upload for private logs.
+        Не публикуйте ключи, POESESSID, платёжные данные, токены или полные логи.
+        Для приватного лога используйте встроенную отправку в поддержку.
   - type: input
     id: version
     attributes:
-      label: TradeForge version
+      label: TradeForge version / Версия TradeForge
       placeholder: 0.1.39
     validations:
       required: true
   - type: dropdown
     id: language
     attributes:
-      label: Game client language
-      options: [Russian, English]
+      label: Game client language / Язык клиента игры
+      options: [Russian / Русский, English / Английский]
     validations:
       required: true
   - type: textarea
     id: steps
     attributes:
-      label: Reproduction steps
-      description: Safe steps only; redact account and item-owner data.
+      label: Reproduction steps / Шаги воспроизведения
+      description: Safe and redacted steps only / Только безопасные очищенные шаги.
     validations:
       required: true
   - type: textarea
     id: expected
     attributes:
-      label: Expected result
+      label: Expected result / Ожидаемый результат
     validations:
       required: true
   - type: textarea
     id: actual
     attributes:
-      label: Actual result
+      label: Actual result / Фактический результат
     validations:
       required: true
   - type: checkboxes
     id: confirmation
     attributes:
-      label: Secret-data confirmation
+      label: Secret-data confirmation / Проверка секретов
       options:
-        - label: I removed license keys, tokens, cookies, payment data and full logs.
+        - label: I removed all secrets and full logs / Я удалил все секреты и полные логи.
           required: true

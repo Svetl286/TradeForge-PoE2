@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Private support and logs
+  - name: Private support and logs / Приватная поддержка и логи
     url: https://t.me/TradeForgePoE2Support
-    about: Use private support for logs, license or account-specific questions.
-  - name: Discord community
+    about: Logs and account questions / Логи и вопросы по аккаунту.
+  - name: Discord community / Сообщество Discord
     url: https://discord.gg/UtU9Ty2bBv
-    about: Questions, guides and community discussion.
+    about: Questions and guides / Вопросы, руководства и обсуждение.
