@@ -7,13 +7,11 @@
 
 ![TradeForge](assets/tradeforge-avatar.png)
 
-TradeForge is a Windows desktop application that automates repeatable Path of
-Exile 2 workflows: crafting preparation, item pricing, shop routing, listing,
-price re-checks and controlled autonomous cycles.
+TradeForge is a helper tool for Path of Exile 2: item preparation and crafting,
+market pricing, shop routing, listing and price updates.
 
-TradeForge — Windows-программа для автоматизации повторяемых сценариев
-Path of Exile 2: подготовки и крафта предметов, оценки рынка, распределения по
-лавкам, выставления и обновления цен.
+TradeForge — инструмент-помощник для Path of Exile 2: подготовки и крафта
+предметов, оценки рынка, распределения по лавкам, выставления и обновления цен.
 
 > This is a public showcase, documentation and binary release repository.
 > The application source code is not published here and this repository is
@@ -40,12 +38,23 @@ Releases are a public mirror for release notes, hashes and manual downloads.
 | Pricing | Market search, cascading queries, listing comparison and saved variants |
 | Selling | Pre-sale staging, shop routing, listing and low-value handling |
 | Repricing | Rule-based and smart price updates, shop relocation workflows |
+| Search / Поиск | Seller search by the required purchase quantity / Удобный поиск продавцов по нужному количеству закупаемого предмета |
 | Control | Start, pause, resume, stop, progress, logs and preflight dialogs |
 | Support | RU/EN interface, manuals, Telegram, Discord and explicit log submission |
 
 ![Management](assets/screenshots/en/tab_management.annotated.png)
 
 ![Prices](assets/screenshots/en/tab_prices.annotated.png)
+
+### Seller search / Поиск предметов у продавцов
+
+Set the minimum available item count to find sellers suitable for the required
+purchase quantity.
+
+Укажите минимальное количество предметов и найдите продавцов, у которых есть
+нужный объём для закупки.
+
+![Seller search by item quantity](assets/screenshots/ru/tab_search.annotated.png)
 
 More screenshots: [feature gallery](docs/FEATURES.md).
 
