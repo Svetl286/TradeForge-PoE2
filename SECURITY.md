@@ -17,7 +17,7 @@ information.
 Use one of the private support routes:
 
 - the explicit in-app support/log upload;
-- https://t.me/TradeForgePoE2Support;
+- https://t.me/TradeForgePoE2Bot;
 - https://discord.gg/UtU9Ty2bBv and the support instructions there.
 
 In a public Issue, include only the TradeForge version, Windows version,
@@ -41,7 +41,7 @@ SmartScreen или антивируса возможно.
 Не публикуйте в Issue ключ лицензии, POESESSID, токены, платёжные данные,
 данные кошелька, доступы к прокси, полные приватные логи или персональную
 информацию. Для чувствительных обращений используйте встроенную отправку лога,
-https://t.me/TradeForgePoE2Support или инструкции поддержки в Discord:
+https://t.me/TradeForgePoE2Bot или инструкции поддержки в Discord:
 https://discord.gg/UtU9Ty2bBv.
 
 В публичном Issue допустимы только версия TradeForge и Windows, язык клиента,

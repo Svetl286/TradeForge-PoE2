@@ -2,7 +2,7 @@
 
 [English](README.md) · [Русский](README_RU.md) ·
 [Quick start](docs/QUICK_START_EN.md) ·
-[Telegram](https://t.me/TradeForgePoE2) ·
+[Telegram Bot](https://t.me/TradeForgePoE2Bot) ·
 [Discord](https://discord.gg/UtU9Ty2bBv) ·
 [Releases](https://github.com/Svetl286/TradeForge-PoE2/releases)
 
@@ -38,7 +38,7 @@ Releases are a public mirror for release notes, hashes and manual downloads.
 | Repricing | Rule-based and smart price updates and shop relocation workflows |
 | Seller search | Convenient seller search by the required purchase quantity |
 | Control | Start, pause, resume, stop, progress, logs and preflight dialogs |
-| Support | RU/EN interface, manuals, Telegram, Discord and explicit log submission |
+| Support | RU/EN interface, manuals, Telegram bot, Discord and explicit log submission |
 
 ![Management](assets/screenshots/en/tab_management.annotated.png)
 
@@ -90,9 +90,7 @@ accepting that account risk.
 
 ## Support and community
 
-- News and manuals: https://t.me/TradeForgePoE2
-- Support forum: https://t.me/TradeForgePoE2Support
-- License/support bot: https://t.me/TradeForgePoE2Bot
+- Telegram license/payment/support bot: https://t.me/TradeForgePoE2Bot
 - Discord: https://discord.gg/UtU9Ty2bBv
 - Bugs and feature requests: [GitHub Issues](https://github.com/Svetl286/TradeForge-PoE2/issues)
 

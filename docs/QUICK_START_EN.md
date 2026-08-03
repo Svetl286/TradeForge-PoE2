@@ -36,8 +36,7 @@ steps can be completed later in Settings.
 
 ## 5. Support
 
-- Telegram: https://t.me/TradeForgePoE2
-- Telegram Support: https://t.me/TradeForgePoE2Support
+- Telegram payment and support bot: https://t.me/TradeForgePoE2Bot
 - Discord: https://discord.gg/UtU9Ty2bBv
 - GitHub Issues: https://github.com/Svetl286/TradeForge-PoE2/issues
 

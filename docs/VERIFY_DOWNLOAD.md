@@ -27,7 +27,7 @@ Official sources:
 
 - https://github.com/Svetl286/TradeForge-PoE2/releases
 - https://tradeforge.freelancepulse.work/api/v1/update/download?version=1.0.0
-- https://t.me/TradeForgePoE2
+- https://t.me/TradeForgePoE2Bot
 - https://discord.gg/UtU9Ty2bBv
 
 ## Проверка установщика на русском

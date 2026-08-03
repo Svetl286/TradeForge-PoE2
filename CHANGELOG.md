@@ -7,7 +7,9 @@
 - one-pass shop repricing mode that respects listing age and reports completion;
 - verified HTTPS updater metadata with exact filename, size and SHA-256;
 - improved release delivery reliability through the official VPS mirror;
-- RU/EN interface, manuals and seller search by required item quantity.
+- RU/EN interface, manuals and seller search by required item quantity;
+- Telegram simplified to the official license/payment/support bot; news,
+  guides and public discussion remain on GitHub and Discord.
 
 Known limitations remain unchanged: the installer is not digitally signed;
 Auto fix/relogin is disabled; production cryptocurrency payments and automatic
@@ -21,7 +23,9 @@ license fulfillment are not enabled.
   завершении;
 - проверяемые HTTPS-метаданные обновления: точное имя, размер и SHA-256;
 - повышена надёжность доставки релиза через официальное VPS-зеркало;
-- RU/EN-интерфейс, руководства и поиск продавцов по нужному количеству.
+- RU/EN-интерфейс, руководства и поиск продавцов по нужному количеству;
+- Telegram упрощён до официального бота лицензий, оплаты и поддержки;
+  новости, руководства и публичное обсуждение остаются в GitHub и Discord.
 
 Ограничения прежние: установщик не подписан цифровой подписью;
 Auto fix/relogin выключен; production-криптооплата и автоматическая выдача

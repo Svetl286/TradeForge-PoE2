@@ -2,7 +2,7 @@
 
 [English](README.md) · [Русский](README_RU.md) ·
 [Быстрый старт](docs/QUICK_START_RU.md) ·
-[Telegram](https://t.me/TradeForgePoE2) ·
+[Telegram-бот](https://t.me/TradeForgePoE2Bot) ·
 [Discord](https://discord.gg/UtU9Ty2bBv) ·
 [Релизы](https://github.com/Svetl286/TradeForge-PoE2/releases)
 
@@ -39,7 +39,7 @@ Releases служит публичным зеркалом для описани�
 | Репрайс | Обновление цен по правилам и умным условиям, перенос между лавками |
 | Поиск продавцов | Удобный поиск по нужному количеству закупаемого предмета |
 | Управление | Запуск, пауза, продолжение, остановка, прогресс, логи и предстартовые проверки |
-| Поддержка | RU/EN-интерфейс, руководства, Telegram, Discord и явная отправка лога |
+| Поддержка | RU/EN-интерфейс, руководства, Telegram-бот, Discord и явная отправка лога |
 
 ![Управление](assets/screenshots/ru/tab_management.annotated.png)
 
@@ -92,9 +92,7 @@ TradeForge не гарантирует прибыль, незаметность,
 
 ## Поддержка и сообщество
 
-- Новости и руководства: https://t.me/TradeForgePoE2
-- Форум поддержки: https://t.me/TradeForgePoE2Support
-- Бот лицензий и поддержки: https://t.me/TradeForgePoE2Bot
+- Telegram-бот лицензий, оплаты и поддержки: https://t.me/TradeForgePoE2Bot
 - Discord: https://discord.gg/UtU9Ty2bBv
 - Ошибки и предложения: [GitHub Issues](https://github.com/Svetl286/TradeForge-PoE2/issues)
 

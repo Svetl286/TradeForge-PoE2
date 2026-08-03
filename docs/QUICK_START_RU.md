@@ -37,8 +37,7 @@
 
 ## 5. Поддержка
 
-- Telegram: https://t.me/TradeForgePoE2
-- Telegram Support: https://t.me/TradeForgePoE2Support
+- Telegram-бот оплаты и поддержки: https://t.me/TradeForgePoE2Bot
 - Discord: https://discord.gg/UtU9Ty2bBv
 - GitHub Issues: https://github.com/Svetl286/TradeForge-PoE2/issues
 

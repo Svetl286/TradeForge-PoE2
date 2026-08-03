@@ -13,9 +13,10 @@
 - No automation tool can guarantee profit, uninterrupted operation or freedom
   from game-account restrictions.
 
-Current service and release announcements are published in:
+Current service and release announcements are published in Discord and
+GitHub. The Telegram bot is used for licenses, payments and private support:
 
-- https://t.me/TradeForgePoE2
+- https://t.me/TradeForgePoE2Bot
 - https://discord.gg/UtU9Ty2bBv
 
 ## Русский
@@ -34,4 +35,5 @@ Current service and release announcements are published in:
 - Ни одна программа автоматизации не гарантирует прибыль, непрерывную работу
   или отсутствие ограничений игрового аккаунта.
 
-Актуальные объявления публикуются в Telegram и Discord по ссылкам выше.
+Актуальные объявления публикуются в Discord и GitHub. Telegram используется
+только как бот лицензий, оплаты и приватной поддержки по ссылке выше.

@@ -9,6 +9,8 @@ Release date: 2026-08-02
 - One-pass shop repricing that respects listing age and reports completion.
 - Verified HTTPS updater metadata and official VPS mirror.
 - RU/EN interface, manuals and seller search by required item quantity.
+- Telegram is now used only through the official license/payment/support bot;
+  community news and guides are published through GitHub and Discord.
 
 ## Основные изменения
 
@@ -18,6 +20,8 @@ Release date: 2026-08-02
   завершении.
 - Проверяемые HTTPS-метаданные обновления и официальное VPS-зеркало.
 - RU/EN-интерфейс, руководства и поиск продавцов по нужному количеству.
+- В Telegram оставлен только официальный бот лицензий, оплаты и поддержки;
+  новости и руководства публикуются через GitHub и Discord.
 
 ## Download
 
