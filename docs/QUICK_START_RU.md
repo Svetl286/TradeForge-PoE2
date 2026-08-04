@@ -6,7 +6,7 @@
    или с [официального VPS](https://tradeforge.freelancepulse.work/api/v1/update/download?version=1.0.0).
 2. Проверьте SHA-256 по инструкции [VERIFY_DOWNLOAD.md](VERIFY_DOWNLOAD.md).
 3. Для версии `1.0.0` ожидаемый SHA-256:
-   `5EA0FA9E1C15A87AF1BCB92E175189E118794B9A740F5BFD58774A42B374482B`.
+   `F53A52759B13DAAFCB2636EE22C1E5D09730E5D9C8CDE08D0B3208B06AC4C327`.
 4. Установщик пока не подписан цифровой подписью, поэтому Windows SmartScreen
    может показать предупреждение. Не запускайте файл, если имя, размер или
    хеш не совпадают.
@@ -37,8 +37,8 @@
 
 ## 5. Поддержка
 
-- Telegram-бот оплаты и поддержки: https://t.me/TradeForgePoE2Bot
-- Discord: https://discord.gg/UtU9Ty2bBv
+- Discord — основная поддержка: https://discord.gg/UtU9Ty2bBv
+- Telegram-бот лицензий, оплаты и резервных обращений: https://t.me/TradeForgePoE2Bot
 - GitHub Issues: https://github.com/Svetl286/TradeForge-PoE2/issues
 
 Полные логи отправляйте только встроенной кнопкой программы. Не публикуйте

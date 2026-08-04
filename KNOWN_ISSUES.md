@@ -14,7 +14,8 @@
   from game-account restrictions.
 
 Current service and release announcements are published in Discord and
-GitHub. The Telegram bot is used for licenses, payments and private support:
+GitHub. Primary support is provided in Discord. The Telegram bot is used for
+licenses, payments and a fallback request form:
 
 - https://t.me/TradeForgePoE2Bot
 - https://discord.gg/UtU9Ty2bBv

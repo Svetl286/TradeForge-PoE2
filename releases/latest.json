@@ -2,8 +2,8 @@
   "version": "1.0.0",
   "published_at": "2026-08-02",
   "filename": "TradeForge_Setup_1.0.0.exe",
-  "size": 70008484,
-  "sha256": "5ea0fa9e1c15a87af1bcb92e175189e118794b9a740f5bfd58774a42b374482b",
+  "size": 70057824,
+  "sha256": "f53a52759b13daafcb2636ee22c1e5d09730e5d9c8cde08d0b3208b06ac4c327",
   "canonical_download_url": "https://tradeforge.freelancepulse.work/api/v1/update/download?version=1.0.0",
   "github_repository_url": "https://github.com/Svetl286/TradeForge-PoE2"
 }

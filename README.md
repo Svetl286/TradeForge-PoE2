@@ -20,8 +20,8 @@ market pricing, shop routing, listing and price updates.
 - Version: **1.0.0**
 - Published: **2026-08-02**
 - Installer: `TradeForge_Setup_1.0.0.exe`
-- Size: **70,008,484 bytes**
-- SHA-256: `5EA0FA9E1C15A87AF1BCB92E175189E118794B9A740F5BFD58774A42B374482B`
+- Size: **70,057,824 bytes**
+- SHA-256: `F53A52759B13DAAFCB2636EE22C1E5D09730E5D9C8CDE08D0B3208B06AC4C327`
 - [Official VPS download](https://tradeforge.freelancepulse.work/api/v1/update/download?version=1.0.0)
 - [GitHub Releases mirror](https://github.com/Svetl286/TradeForge-PoE2/releases/latest)
 
@@ -90,8 +90,8 @@ accepting that account risk.
 
 ## Support and community
 
-- Telegram license/payment/support bot: https://t.me/TradeForgePoE2Bot
-- Discord: https://discord.gg/UtU9Ty2bBv
+- Discord — primary support and community: https://discord.gg/UtU9Ty2bBv
+- Telegram license/payment bot and fallback request form: https://t.me/TradeForgePoE2Bot
 - Bugs and feature requests: [GitHub Issues](https://github.com/Svetl286/TradeForge-PoE2/issues)
 
 Do not post license keys, payment data, tokens, POESESSID or full logs in a

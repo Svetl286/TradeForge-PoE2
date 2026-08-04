@@ -20,8 +20,8 @@ TradeForge — инструмент-помощник для Path of Exile 2: п�
 - Версия: **1.0.0**
 - Дата публикации: **2026-08-02**
 - Установщик: `TradeForge_Setup_1.0.0.exe`
-- Размер: **70 008 484 байт**
-- SHA-256: `5EA0FA9E1C15A87AF1BCB92E175189E118794B9A740F5BFD58774A42B374482B`
+- Размер: **70 057 824 байт**
+- SHA-256: `F53A52759B13DAAFCB2636EE22C1E5D09730E5D9C8CDE08D0B3208B06AC4C327`
 - [Официальное скачивание с VPS](https://tradeforge.freelancepulse.work/api/v1/update/download?version=1.0.0)
 - [Зеркало GitHub Releases](https://github.com/Svetl286/TradeForge-PoE2/releases/latest)
 
@@ -92,8 +92,8 @@ TradeForge не гарантирует прибыль, незаметность,
 
 ## Поддержка и сообщество
 
-- Telegram-бот лицензий, оплаты и поддержки: https://t.me/TradeForgePoE2Bot
-- Discord: https://discord.gg/UtU9Ty2bBv
+- Discord — основная поддержка и сообщество: https://discord.gg/UtU9Ty2bBv
+- Telegram-бот лицензий, оплаты и резервных обращений: https://t.me/TradeForgePoE2Bot
 - Ошибки и предложения: [GitHub Issues](https://github.com/Svetl286/TradeForge-PoE2/issues)
 
 Не публикуйте в открытом Issue лицензионные ключи, платёжные данные, токены,
