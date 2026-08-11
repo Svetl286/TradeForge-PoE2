@@ -106,17 +106,9 @@ The stages can be used independently or connected into a longer scenario: check 
 
 </details>
 
-## License plans
+## License information
 
-Current catalog prices are shown for orientation and should be confirmed before payment:
-
-| Term | Standard | Launch offer* |
-|---|---:|---:|
-| 3 days | 3 USDT | 1.5 USDT |
-| 10 days | 12 USDT | 6 USDT |
-| 30 days | 25 USDT | 12.5 USDT |
-
-\* Launch availability and final terms may change. Contact [Telegram support](https://t.me/TradeForgePoE2Bot) for the current offer and license delivery.
+For current license options and availability, contact us through [Discord](https://discord.gg/UtU9Ty2bBv) or [Telegram](https://t.me/TradeForgePoE2Bot).
 
 ## Download
 
