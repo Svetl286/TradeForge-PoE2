@@ -30,9 +30,6 @@
 >
 > **\* This is potential, not guaranteed profit.** Actual results depend on market conditions, strategy, available capital, items and configuration.
 
-> **⚠️ Independent third-party software.**<br>
-> TradeForge is not affiliated with, endorsed by or supported by Grinding Gear Games. Automation can conflict with the game's Terms of Use and creates account risk, including possible restrictions. Read the [Important Risk Notice](#important-risk-notice) before use.
-
 ---
 
 ## ⚡ One Tool. One Trading Workflow.
@@ -485,6 +482,8 @@ TradeForge is an independent third-party automation tool.
 It is **not affiliated with, endorsed by or supported by Grinding Gear Games**.
 
 Automation may conflict with the game's Terms of Use and can expose an account to restrictions or a ban.
+
+During live operations, TradeForge uses real mouse clicks and keyboard input in the configured game window rather than a separate background control channel. This can reduce the automation footprint, but it does not eliminate account risk or guarantee compliance with the game's rules.
 
 TradeForge does not promise:
 
