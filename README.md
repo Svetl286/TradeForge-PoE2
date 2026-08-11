@@ -26,7 +26,7 @@ This repository is a public product showcase, documentation hub and binary-relea
 |---|---|
 | Repeating the same craft sequence | Save a reusable Craft Constructor plan |
 | Searching many separate offers | Group matching offers by seller |
-| Buying a large quantity | Find sellers with the required item count |
+| Buying a large quantity | Find sellers with the largest available stock |
 | Comparing an item's market value | Run an automatic, comparison-based estimate |
 | Preparing many listings | Apply category, price and shop rules in batches |
 | Old listings becoming uncompetitive | Recheck and reprice them by your rules |
@@ -52,9 +52,9 @@ More UI examples: [English feature gallery](docs/FEATURES.md).
 
 ## Seller search by item quantity
 
-For a bulk purchase, the important question is often not the cheapest single listing, but **which seller has enough matching items**.
+For a bulk purchase, the important question is often not the cheapest single listing, but **which sellers have the most matching items available**.
 
-Set the item filters, currency, price range, minimum quantity at one seller and the number of sellers to show. TradeForge groups the matching offers by seller so you can quickly choose a practical purchase route instead of opening dozens of isolated listings.
+Set the item filters, currency, price range and the number of sellers to show. TradeForge groups matching offers, counts the available items for each seller and highlights sellers with the largest stock. An optional minimum-item threshold can filter out smaller inventories.
 
 The **Open seller on website** action opens the selected seller's offers on the trade site. You complete the purchase yourself; TradeForge does not buy items on your behalf.
 
