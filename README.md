@@ -95,7 +95,7 @@ Markets change. For existing listings you can configure listing-age rules, a rep
 The stages can be used independently or connected into a longer scenario: check resources, run a saved craft plan, estimate the result, review the pre-sale table, route items to shops, list them and later recheck their prices.
 
 <details>
-<summary><b>More features</b></summary>
+<summary><b>⚙️ More TradeForge Features</b></summary>
 
 - reusable configuration templates;
 - price ranges and category filters;
@@ -123,6 +123,9 @@ For current license options and availability, contact us through [Discord](https
 
 The built-in updater tries the VPS first. If that route repeatedly fails, it uses the latest verified GitHub Release asset as an automatic fallback; manual GitHub download remains available as a final option.
 
+<details>
+<summary><b>🛠️ System Requirements & Setup</b></summary>
+
 ## Requirements
 
 - Windows 10/11, 64-bit;
@@ -134,6 +137,11 @@ The built-in updater tries the VPS first. If that route repeatedly fails, it use
 
 During live operations the program uses mouse and keyboard input and configured screen regions. Keep the game window available and do not use the computer for conflicting input at the same time.
 
+</details>
+
+<details>
+<summary><b>🔐 Safety & Transparency</b></summary>
+
 ## Safety and transparency
 
 - Every release publishes its version, installer size and SHA-256.
@@ -142,6 +150,8 @@ During live operations the program uses mouse and keyboard input and configured 
 - Full support logs are submitted only through an explicit in-app action. Never post license keys, cookies, POESESSID, payment data or full logs in Issues.
 
 Read [Security](SECURITY.md), [Privacy](PRIVACY.md) and [Verify a download](docs/VERIFY_DOWNLOAD.md) before installation.
+
+</details>
 
 ## Important risk notice
 
