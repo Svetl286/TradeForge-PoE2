@@ -25,6 +25,9 @@ The wizard covers the app/game language, license and server, game window,
 stash/Ange captures and the minimum source-tab/shop configuration. Skipped
 steps can be completed later in Settings.
 
+The license window provides official Discord, Telegram and GitHub buttons,
+plus server-address editing, saving and connection re-checking.
+
 ## 4. First controlled workflow
 
 1. Configure one source tab and one shop.
