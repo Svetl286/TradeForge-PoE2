@@ -34,7 +34,19 @@ steps can be completed later in Settings.
 5. Use the configured pause/resume hotkey and the dedicated stop hotkey or
    stop corner.
 
-## 5. Support
+## 5. New crafting and repricing controls
+
+- **Move valuable items to** works together with **Craft only**. Select a
+  separate destination tab and set a value threshold and currency. The program
+  prices results directly in the craft tab, converts values at the current
+  exchange rate, moves items worth at least the threshold, and keeps crafting
+  the rest. A source and destination cannot be the same tab.
+- **verify prices** in the repricing block reads the actual in-game prices
+  before building a plan. Keep it enabled when prices may have been changed
+  manually. Turning it off skips the full preliminary verification and builds
+  the plan faster from saved data.
+
+## 6. Support
 
 - Discord — primary support: https://discord.gg/UtU9Ty2bBv
 - Telegram license/payment bot and fallback request form: https://t.me/TradeForgePoE2Bot
