@@ -1,5 +1,7 @@
 # TradeForge quick start
 
+Use https://tradeforge.download as the price server in Settings. Refresh the league list, select the active league you play in or Standard, then choose Apply and restart. When two leagues run concurrently, select your character’s league.
+
 ## 1. Download and verify
 
 1. Download the installer from [GitHub Releases](https://github.com/Svetl286/TradeForge-PoE2/releases/latest)
