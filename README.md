@@ -1,5 +1,7 @@
 <div align="center">
 
+Official website and price server: https://tradeforge.download
+
 <img src="assets/tradeforge-banner.png" alt="TradeForge for Path of Exile 2" width="100%">
 
 # ⚒️ TradeForge for Path of Exile 2
