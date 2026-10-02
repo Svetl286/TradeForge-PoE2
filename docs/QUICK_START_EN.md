@@ -2,15 +2,13 @@
 
 Use https://tradeforge.download as the price server in Settings. Refresh the league list, select the active league you play in or Standard, then choose Apply and restart. When two leagues run concurrently, select your character’s league.
 
-## 1. Download and verify
+## 1. Download the installer from the [latest GitHub Release](https://github.com/Svetl286/TradeForge-PoE2/releases/latest).
+2. Compare its filename, size and SHA-256 with that release page using the [download verification guide](VERIFY_DOWNLOAD.md).
+3. Install the program and complete its setup wizard.
 
-1. Download the installer from [GitHub Releases](https://github.com/Svetl286/TradeForge-PoE2/releases/latest)
-   or the [official VPS](https://tradeforge.freelancepulse.work/api/v1/update/download?version=1.0.0).
-2. Follow [VERIFY_DOWNLOAD.md](VERIFY_DOWNLOAD.md) to verify SHA-256.
-3. Expected SHA-256 for `1.0.0`:
-   `F53A52759B13DAAFCB2636EE22C1E5D09730E5D9C8CDE08D0B3208B06AC4C327`.
-4. The installer is not digitally code-signed yet, so Windows SmartScreen may
-   display a warning. Do not run a file whose name, size or hash differs.
+Full instructions: [user manual with screenshots](manual_en.md). The program's **Guide** button opens the manual for the installed version.
+
+> The interface depends on the installed version. If you only see Current league and Standard instead of a league list, check for an available update. The in-app guide matches the installed version.
 
 ## 2. Before the first run
 

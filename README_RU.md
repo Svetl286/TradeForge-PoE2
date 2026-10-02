@@ -12,7 +12,8 @@
 
 Path of Exile 2 · PoE2 · торговый помощник · крафт · оценка рынка · поиск продавцов · лавки · цены
 
-[English](README.md) · [Русский](README_RU.md) · [Быстрый старт](docs/QUICK_START_RU.md) · [Релизы](https://github.com/Svetl286/TradeForge-PoE2/releases) · [Telegram для поддержки](https://t.me/TradeForgePoE2Bot) · [Discord](https://discord.gg/UtU9Ty2bBv)
+[English](README.md) · [Русский](README_RU.md) · [Быстрый старт](docs/QUICK_START_RU.md) ·
+[Руководство](docs/manual_ru.md) · [Релизы](https://github.com/Svetl286/TradeForge-PoE2/releases) · [Telegram для поддержки](https://t.me/TradeForgePoE2Bot) · [Discord](https://discord.gg/UtU9Ty2bBv)
 
 </div>
 
@@ -110,16 +111,20 @@ TradeForge читает поддерживаемые предметы из вы�
 
 ## Скачать TradeForge
 
-### Текущий релиз: `1.0.0`
+Скачайте актуальный установщик со страницы [последнего GitHub Release](https://github.com/Svetl286/TradeForge-PoE2/releases/latest).
 
-- Установщик: `TradeForge_Setup_1.0.0.exe`
-- Дата публикации: `2026-08-02`
-- Размер: `70 057 824 байт`
-- SHA-256: `F53A52759B13DAAFCB2636EE22C1E5D09730E5D9C8CDE08D0B3208B06AC4C327`
-- [Официальная загрузка с VPS](https://tradeforge.freelancepulse.work/api/v1/update/download?version=1.0.0)
-- [Зеркало GitHub Releases](https://github.com/Svetl286/TradeForge-PoE2/releases/latest)
+В каждом релизе указаны версия, файл установщика, размер и SHA-256. [Проверяйте скачанный файл](docs/VERIFY_DOWNLOAD.md) по данным именно выбранного релиза.
 
-Встроенное обновление сначала использует VPS. Если маршрут несколько раз недоступен, программа автоматически использует проверенный asset последнего GitHub Release; ручная загрузка с GitHub остаётся запасным вариантом.
+Встроенное обновление проверяет GitHub Releases и сверяет установщик. Сервер цен и лицензий — [tradeforge.download](https://tradeforge.download).
+
+## 📖 Руководства
+
+- [Быстрый старт](docs/QUICK_START_RU.md)
+- [Полное руководство со скриншотами](docs/manual_ru.md)
+- [English manual](docs/manual_en.md)
+- [Известные ограничения](KNOWN_ISSUES.md)
+
+Кнопка **«Руководство»** в программе открывает инструкцию для установленной версии. Онлайн-руководства отражают актуальную документацию; отличия по версиям отмечены в тексте.
 
 <details>
 <summary><b>🛠️ Системные требования и настройка</b></summary>

@@ -1,49 +1,23 @@
-# Verify a TradeForge installer
+# Verify your download / Проверка загрузки
 
-Official releases publish the exact filename, byte size and SHA-256 hash.
+Download the installer from [GitHub Releases](https://github.com/Svetl286/TradeForge-PoE2/releases/latest). The release page is the source for the exact version, filename, byte size and SHA-256. Do not compare a new installer against an older release's hash.
 
-For TradeForge `1.0.0`:
+В [GitHub Releases](https://github.com/Svetl286/TradeForge-PoE2/releases/latest) скачайте установщик и возьмите имя, размер и SHA-256 с той же страницы. Хеш старой версии не подходит для новой.
 
-```text
-Filename: TradeForge_Setup_1.0.0.exe
-Size:     70057824 bytes
-SHA-256:  F53A52759B13DAAFCB2636EE22C1E5D09730E5D9C8CDE08D0B3208B06AC4C327
-```
-
-PowerShell:
+Open PowerShell in the download folder / Откройте PowerShell в папке загрузки:
 
 ```powershell
-Get-FileHash -LiteralPath .\TradeForge_Setup_1.0.0.exe -Algorithm SHA256
+# Replace X.Y.Z with the version you downloaded / Подставьте скачанную версию.
+$installer = Get-Item -LiteralPath .\TradeForge_Setup_X.Y.Z.exe
+$installer.Name
+$installer.Length
+Get-FileHash -LiteralPath $installer.FullName -Algorithm SHA256
 ```
 
-The returned hash must match all 64 hexadecimal characters. Delete the file
-and contact support if the hash, filename or size differs.
+All 64 hash characters must match (letter case does not matter). If the filename, size or hash differs, do not run the installer; download it again from the official release or contact support.
 
-The current installer is not digitally code-signed. A SmartScreen warning is
-therefore possible even for the authentic file; SHA-256 verification is
-especially important.
+Все 64 символа хеша должны совпасть (регистр букв не важен). При несовпадении имени, размера или хеша не запускайте файл: скачайте его заново из официального релиза или обратитесь в поддержку.
 
-Official sources:
+The installer is not currently digitally signed, so Windows SmartScreen may show a warning. / Установщик пока не подписан цифровой подписью; Windows SmartScreen может показать предупреждение.
 
-- https://github.com/Svetl286/TradeForge-PoE2/releases
-- https://tradeforge.freelancepulse.work/api/v1/update/download?version=1.0.0
-- https://t.me/TradeForgePoE2Bot
-- https://discord.gg/UtU9Ty2bBv
-
-## Проверка установщика на русском
-
-Официальный релиз всегда содержит точное имя файла, размер в байтах и
-SHA-256. Для TradeForge `1.0.0` ожидаются значения из блока выше.
-
-Откройте PowerShell в папке с установщиком и выполните:
-
-```powershell
-Get-FileHash -LiteralPath .\TradeForge_Setup_1.0.0.exe -Algorithm SHA256
-```
-
-Результат должен совпасть по всем 64 шестнадцатеричным символам. Если имя,
-размер или SHA-256 отличаются, удалите файл и обратитесь в поддержку.
-
-Установщик пока не подписан цифровой подписью, поэтому SmartScreen может
-показать предупреждение даже для подлинного файла. Проверка SHA-256 особенно
-важна; скачивайте программу только по официальным ссылкам выше.
+Support / Поддержка: [Discord](https://discord.gg/UtU9Ty2bBv), [Telegram bot](https://t.me/TradeForgePoE2Bot).

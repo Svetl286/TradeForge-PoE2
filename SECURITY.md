@@ -2,8 +2,7 @@
 
 ## Authentic releases
 
-Download TradeForge only from this repository's Releases page or the official
-TradeForge HTTPS endpoint. Verify the published SHA-256 before execution.
+Download TradeForge only from [this repository's Releases page](https://github.com/Svetl286/TradeForge-PoE2/releases/latest). Verify the published SHA-256 before execution.
 
 The installer is currently not digitally code-signed. This repository does
 not claim that SmartScreen or antivirus warnings are impossible.
@@ -33,8 +32,7 @@ account sessions, proxies, private keys, wallet data or service tokens.
 
 ## Русский
 
-Скачивайте TradeForge только со страницы Releases этого репозитория или через
-официальный HTTPS-адрес TradeForge. Перед запуском сверяйте опубликованный
+Скачивайте TradeForge только со [страницы Releases](https://github.com/Svetl286/TradeForge-PoE2/releases/latest) этого репозитория. Перед запуском сверяйте опубликованный
 SHA-256. Установщик пока не имеет цифровой подписи, поэтому предупреждение
 SmartScreen или антивируса возможно.
 

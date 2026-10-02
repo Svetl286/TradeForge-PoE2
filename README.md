@@ -21,6 +21,7 @@ Official website and price server: https://tradeforge.download
 [English](README.md) ·
 [Русский](README_RU.md) ·
 [Quick Start](docs/QUICK_START_EN.md) ·
+[User Manual](docs/manual_en.md) ·
 [Releases](https://github.com/Svetl286/TradeForge-PoE2/releases) ·
 [Telegram](https://t.me/TradeForgePoE2Bot) ·
 [Discord](https://discord.gg/UtU9Ty2bBv)
@@ -388,21 +389,20 @@ For current license options and availability, contact us through:
 
 # 🚀 Download TradeForge
 
-## Current Release: `1.0.0`
+Download the current installer from [Latest GitHub Release](https://github.com/Svetl286/TradeForge-PoE2/releases/latest).
 
-- **Installer:** `TradeForge_Setup_1.0.0.exe`
-- **Published:** `2026-08-02`
-- **Size:** `70,057,824 bytes`
-- **SHA-256:** `F53A52759B13DAAFCB2636EE22C1E5D09730E5D9C8CDE08D0B3208B06AC4C327`
+Each release includes its installer, version, byte size and SHA-256. Use the values on that release page to [verify your download](docs/VERIFY_DOWNLOAD.md).
 
-### Download
+The built-in updater checks GitHub Releases and verifies the downloaded installer. The price and license server is [tradeforge.download](https://tradeforge.download).
 
-- [Official VPS Download](https://tradeforge.freelancepulse.work/api/v1/update/download?version=1.0.0)
-- [GitHub Releases Mirror](https://github.com/Svetl286/TradeForge-PoE2/releases/latest)
+## 📖 Guides
 
-The built-in updater tries the official VPS first.
+- [Quick start](docs/QUICK_START_EN.md)
+- [Full user manual with screenshots](docs/manual_en.md)
+- [Russian manual](docs/manual_ru.md)
+- [Known limitations](KNOWN_ISSUES.md)
 
-If that route repeatedly fails, TradeForge uses the latest verified GitHub Release asset as an automatic fallback. Manual GitHub download remains available as a final option.
+The program's **Guide** button opens the manual shipped with your installed version. Online manuals describe maintained documentation; version-specific changes are noted there.
 
 ---
 

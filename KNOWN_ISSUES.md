@@ -8,8 +8,7 @@
   action; use the configured pause or stop control.
 - Game patches can change UI templates, item text or navigation behavior and
   may require a TradeForge update or template recapture.
-- Production cryptocurrency payment and automatic license fulfillment are
-  not enabled yet. Do not send cryptocurrency based on unofficial messages.
+- License purchase and renewal use the official Telegram bot. Follow its current payment instructions; never pay based on unofficial direct messages.
 - No automation tool can guarantee profit, uninterrupted operation or freedom
   from game-account restrictions.
 
@@ -31,8 +30,7 @@ licenses, payments and a fallback request form:
   используйте настроенную паузу или остановку.
 - Обновления игры могут менять интерфейс, текст предметов и навигацию, поэтому
   иногда требуется обновление TradeForge или повторный захват шаблонов.
-- Production-криптооплата и автоматическая выдача лицензий ещё не включены.
-  Не отправляйте криптовалюту по неофициальным сообщениям.
+- Покупка и продление лицензии доступны через официальный Telegram-бот. Следуйте его текущим инструкциям оплаты; не переводите деньги по неофициальным личным сообщениям.
 - Ни одна программа автоматизации не гарантирует прибыль, непрерывную работу
   или отсутствие ограничений игрового аккаунта.
 
